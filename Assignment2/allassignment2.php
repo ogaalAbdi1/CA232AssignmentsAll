@@ -305,21 +305,21 @@ echo "<h2>Problem 4</h2>";
 $students = array(
 
     "CA221" => array(
-        "Name" => "Mohamed Ahmed Ali",
-        "Phone" => "0648440403",
+        "Name" => "Faaduma Ali Hasan",
+        "Phone" => "0615667788",
         "Address" => "laba dhagax ,Wardhiigleey"
     ),
 
        "CA223" => array(
-        "Name" => "Ahmed Abdi Jama",
-        "Phone" => "0647223201",
+        "Name" => "Ahmed Faarah Husein",
+        "Phone" => "0613445566",
         "Address" => "Taleex, Hodan"
     ),
 
 
     "CA221_2" => array(
-        "Name" => "Amina Nur Adan",
-        "Phone" => "0646990276",
+        "Name" => "Khaalid Kaamil",
+        "Phone" => "619007788",
         "Address" => "Macmacaanka, Dharkeynley"
     )
 );
